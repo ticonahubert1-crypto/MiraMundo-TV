@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "nombre": "TV Perú",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/6io0IrX.png",
+    "url": "http://190.93.224.42/TV-PERU/index.m3u8"
+  },
+  {
+    "id": 2,
+    "nombre": "Latina",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/MOsWriY.png",
+    "url": "http://190.93.224.42/LATINA/index.m3u8"
+  },
+  {
+    "id": 3,
+    "nombre": "Panamericana TV",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/uQhEDES.png",
+    "url": "http://45.171.108.253:8888/PANAMERICANA/index.m3u8"
+  },
+  {
+    "id": 4,
+    "nombre": "América Televisión",
+    "categoria": "Nacional",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
+    "url": "http://190.93.224.42/AMERICA-TV/index.m3u8"
+  },
+  {
+    "id": 5,
+    "nombre": "ATV",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/eUzYZfg.png",
+    "url": "http://190.93.224.42/ATV/index.m3u8"
+  },
+  {
+    "id": 6,
+    "nombre": "Qollasuyo",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/6bi7fGB.jpeg",
+    "url": "https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8"
+  },
+  {
+    "id": 7,
+    "nombre": "Willax TV",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/bZnDDPH.png",
+    "url": "http://190.93.224.42/WILLAX/index.m3u8"
+  },
+  {
+    "id": 8,
+    "nombre": "Exitosa TV",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/pu0BSB7.png",
+    "url": "http://190.93.224.42/EXITOSA/index.m3u8"
+  },
+  {
+    "id": 9,
+    "nombre": "RPP TV",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/oBz3CgE.png",
+    "url": "http://190.93.224.42/RPP/index.m3u8"
+  },
+  {
+    "id": 10,
+    "nombre": "TV Perú Noticias",
+    "categoria": "Nacional",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/960px-TV_Per%C3%BA_Noticias_-_2019_logo.png",
+    "url": "http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8"
+  },
+  {
+    "id": 11,
+    "nombre": "ATV Sur",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/LnyVa5H.png",
+    "url": "http://190.93.224.42/ATV-SUR/index.m3u8"
+  },
+  {
+    "id": 12,
+    "nombre": "Bethel TV",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/zCVh765.png",
+    "url": "https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8"
+  },
+  {
+    "id": 13,
+    "nombre": "Canal IPe",
+    "categoria": "Nacional",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/960px-Identidad_Peruana_ipe_2020.png",
+    "url": "http://187.102.210.46/IPE/index.m3u8"
+  },
+  {
+    "id": 14,
+    "nombre": "ATV+",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/fY9256H.png",
+    "url": "http://45.171.108.253:8888/ATV/index.m3u8"
+  },
+  {
+    "id": 15,
+    "nombre": "Global TV",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/yuEou9C.png",
+    "url": "http://190.93.224.42/GLOBAL/index.m3u8"
+  },
+  {
+    "id": 16,
+    "nombre": "La Tele",
+    "categoria": "Nacional",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png",
+    "url": "http://190.93.224.42/LA-TELE/index.m3u8"
+  },
+  {
+    "id": 17,
+    "nombre": "PBO",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/vBpxX4S.png",
+    "url": "http://190.93.224.42/PBO/index.m3u8"
+  },
+  {
+    "id": 18,
+    "nombre": "L1 Max",
+    "categoria": "Deportes",
+    "imagen": "https://i.imgur.com/2fziU2B.png",
+    "url": "http://190.93.224.42/LIGA-1-MAX/index.m3u8"
+  },
+  {
+    "id": 19,
+    "nombre": "Karibeña",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/cgHjg1e.png",
+    "url": "http://187.102.210.46/KARIBENA/index.m3u8"
+  },
+  {
+    "id": 20,
+    "nombre": "Sol TV",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/GtNkuAc.png",
+    "url": "https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8"
+  }
+]
